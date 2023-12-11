@@ -1,13 +1,17 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
+  background-color: rgb(183, 248, 248);
+  text-align: center;
 }
 
 textarea {
-  background: transparent;
+  background: rgb(207, 234, 241);
   border: none;
   resize: none;
   color: #000000;
+  border-bottom: 1px dashed black;
+  border-top: 1px dashed black;
   border-left: 1px solid black;
   padding: 10px;
 }
