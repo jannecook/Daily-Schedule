@@ -6,3 +6,4 @@ This project was designed to provide a simple daily calendar to help a working p
 about implementing a third party API into a software application while working on this project.
 
 ### Deployed Application
+https://jannecook.github.io/Daily-Schedule/
