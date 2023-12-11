@@ -7,3 +7,5 @@ about implementing a third party API into a software application while working o
 
 ### Deployed Application
 https://jannecook.github.io/Daily-Schedule/
+
+![0DDA399E-FCF0-4FF6-83B9-18E887D6EFB5_1_201_a](https://github.com/jannecook/Daily-Schedule/assets/135638400/72f291e1-714c-4f82-b225-c065efea1b19)
